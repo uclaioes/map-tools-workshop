@@ -8,11 +8,11 @@ This self-paced tutorial covers Leaflet, OpenStreetMap, MapBox and GeoJSON. Each
 ## Steps
 
 
-* [Step 1](index-step1.html)
-* [Step 2](index-step2.html)
-* [Step 3](index-step3.html)
-* [Step 4](index-step4.html)
-* [Step 5](index-step5.html)
+1. [Code](index-step1.html) | [View](https://uclaioes.github.io/web-maps-workshop/index-step1.html)
+1. [Code](index-step2.html) | [View](https://uclaioes.github.io/web-maps-workshop/index-step2.html)
+1. [Code](index-step3.html) | [View](https://uclaioes.github.io/web-maps-workshop/index-step3.html)
+1. [Code](index-step4.html) | [View](https://uclaioes.github.io/web-maps-workshop/index-step4.html)
+1. [Code](index-step5.html) | [View](https://uclaioes.github.io/web-maps-workshop/index-step5.html)
 
 ## Links
 * [Visual Studio Code](https://code.visualstudio.com/)
